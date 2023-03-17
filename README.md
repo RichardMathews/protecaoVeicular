@@ -1,8 +1,4 @@
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
-
-## Installation
+## Instalação
 
 Utilize o  [yarn](https://yarnpkg.com/) para a instalação das dependência.
 
